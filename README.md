@@ -1,0 +1,2 @@
+# prompt_toolkit_for_sqlite
+使用prompt_toolkit命令行工具操作sqlite数据，结合词法分析器
